@@ -1,4 +1,4 @@
-![badge](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![badge](https://github.com/hemantbappayya/learn-cicd-typescript-starter/actions/workflows/ci/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
